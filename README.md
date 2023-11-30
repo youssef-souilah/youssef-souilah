@@ -79,6 +79,8 @@ Hi! youssef Here
 
 
 
-<p align ="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=youssef-souilah&show_icons=true&locale=en&theme=highcontrast" alt="youssef-souilah" width = "48%"/>
- &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-souilah&theme=highcontrast" alt="youssef-souilah" width="48%" /></p>
- <p align="center"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-souilah&layout=compact&theme=highcontrast" width="42%"/></p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=youssef-souilah&show_icons=true&locale=en&theme=highcontrast" alt="youssef-souilah"  width = "45%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-souilah&theme=highcontrast" alt="youssef-souilah"  width="48%" />
+</p>
+ <p align="center"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-souilah&layout=compact&theme=highcontrast"  width="80%"/></p>
