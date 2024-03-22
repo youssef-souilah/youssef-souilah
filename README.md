@@ -9,6 +9,21 @@ Hi! youssef Here
 - Frontend devlopment using ReactJs <br>
 - Backend development using Laravel and ExpressJs.<br>
 - Databases using Mysql and MongoDb.<br>
+
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-left: 20px;">
+        <h3 align="left">My Github Stats :</h3>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-souilah&theme=tokyonight" alt="nbenyahy's 42 stats" />
+        <div style="inline-block:center" >
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-souilah&theme=highcontrast" alt="youssef-souilah"  hight="200px" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-souilah&layout=compact&theme=radical" alt="youssef-souilah" width="35%"   />
+        </div>  
+    </div>
+  
+</div>
+
 <h3 align="left">Languages and Tools: </h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -80,8 +95,8 @@ Hi! youssef Here
 
 
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=youssef-souilah&show_icons=true&locale=en&theme=highcontrast" alt="youssef-souilah"  width = "45%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-souilah&theme=highcontrast" alt="youssef-souilah"  width="48%" />
-</p>
- <p align="center"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-souilah&layout=compact&theme=highcontrast"  width="80%"/></p>
+
+
+ 
+
+
