@@ -18,7 +18,7 @@ Hi! youssef Here
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-souilah&theme=tokyonight" alt="nbenyahy's 42 stats" />
         <div style="inline-block:center" >
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-souilah&theme=highcontrast" alt="youssef-souilah"  hight="200px" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-souilah&layout=compact&theme=radical" alt="youssef-souilah" width="35%"   />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-souilah&layout=compact&theme=radical" alt="youssef-souilah" width="40%"   />
         </div>  
     </div>
   
