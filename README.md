@@ -5,7 +5,7 @@ Hi! youssef Here
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=How+are+you+doing+today+?;Glad+you+visited+my+profile+!;Read+along+to+know+about+me+😉;)](https://git.io/typing-svg)
 
 <p>At present, I am a Full Stack Web Developer .</p>
-- I am currently learning  Java - JEE-Spring-boot  - Symfony  😃<br>
+- I am currently learning  Java -  JEE-Spring-boot  - Symfony  😃<br>
 - Frontend devlopment using ReactJs <br>
 - Backend development using Laravel and ExpressJs.<br>
 - Databases using Mysql and MongoDb.<br>
