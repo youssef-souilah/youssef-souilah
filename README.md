@@ -16,6 +16,7 @@ Hi! youssef Here
     <div style="margin-left: 20px;">
         <h3 align="left">My Github Stats :</h3>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-souilah&theme=tokyonight" alt="yousset 's stats" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-souilah&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
         <div style="inline-block:center" >
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-souilah&theme=highcontrast" alt="youssef-souilah"  hight="200px" />
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-souilah&layout=compact&theme=radical" alt="youssef-souilah" width="40%"   />
