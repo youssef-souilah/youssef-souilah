@@ -1,7 +1,7 @@
 Hi! Youssef Here            
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=How+are+you+doing+today+?;Glad+you+visited+my+profile+!;Read+along+to+know+about+me+😉;)](https://git.io/typing-svg)
 
-<p> At present, I am a M1 Data Science Student  | Full Stack Web Developer ! (Laravel | MERN stack) </p> 
+<p>At present, I am a M1 Data Science Student  | Full Stack Web Developer ! (Laravel | MERN stack) </p> 
  
 <div style="display: flex; align-items: center; justify-content: center;">
     <div style="margin-left: 20px;">
